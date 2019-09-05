@@ -1,0 +1,19 @@
+{
+  "name": "realworld_sequelize",
+  "version": "1.0.0",
+  "description": "A real world nodejs project",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devxiv/workshop-nodejs-realworld-project.git"
+  },
+  "author": "Somphop Cheyklinthet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devxiv/workshop-nodejs-realworld-project/issues"
+  },
+  "homepage": "https://github.com/devxiv/workshop-nodejs-realworld-project#readme"
+}
